@@ -235,3 +235,5 @@ output_text = Text(root, width=50, height=1, bg="#1e1e1e", fg="white")
 output_text.grid(row=4, column=0, columnspan=3, padx=10, pady=5)
 
 root.mainloop()
+
+#the end of code
