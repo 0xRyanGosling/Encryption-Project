@@ -18,8 +18,8 @@ This project is a graphical user interface (GUI) application that provides encry
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cipher-gui.git
-   cd cipher-gui
+   git clone https://github.com/0xRyanGosling/Encryption-Project
+   cd Encryption-Project
    ```
 2. Ensure you have Python installed (version 3.6 or higher).
 3. Install dependencies (if any, like `tkinter`, though it is included by default in most Python installations).
